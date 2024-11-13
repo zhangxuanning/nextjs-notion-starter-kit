@@ -197,6 +197,10 @@
   max-width: 1600px !important;
   border-radius: 0px;
 }
+.notion-page-cover-wrapper img {
+  min-height: 50vh !important;
+  max-height: 50vh !important;
+}
 
 .notion-page-cover-wrapper {
   box-shadow: 2px 2px 8px 4px rgba(15, 15, 15, 0.1);
